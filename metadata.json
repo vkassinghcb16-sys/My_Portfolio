@@ -1,0 +1,7 @@
+{
+  "name": "Vikas Singh PM Portfolio",
+  "description": "A high-impact, dynamic Product Management portfolio featuring interactive timelines, AI-driven insights, and showcase of strategic product work.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
